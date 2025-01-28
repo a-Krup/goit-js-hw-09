@@ -13,4 +13,22 @@
     line-height: 1.5;
   }
   
+  .pages {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 8px;
+    flex-direction: column;
+    margin: 0;
+    padding: 24px 156px;
+      
+  }
+
+  .name-page {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+
+  }
+  
   
